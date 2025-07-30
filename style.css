@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+html,body{
+    width:100%;
+    height:100%;
+p{
+
+}
+.a{
+
+ }
+ #main{
+    width:100%;
+    height:100%;
+    background-image: url(https://cdn.shopify.com/s/files/1/0856/0240/2611/files/inspirational-quotes-on-doctors.jpg?v=1733998730);
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(17, 216, 206);
+ }
